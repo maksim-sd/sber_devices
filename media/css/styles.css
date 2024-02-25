@@ -261,7 +261,6 @@ hr {
 .product_img {
     width: 80px;
     height: 80px;
-    border: 2px dashed rgba(151, 151, 151, 0.3);
 }
 
 .block_details {
